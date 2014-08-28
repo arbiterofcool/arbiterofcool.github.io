@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "First post"
 published: true
 ---
 
-Hello World!
+I don't know why people type that.

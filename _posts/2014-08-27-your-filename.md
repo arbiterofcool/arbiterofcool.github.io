@@ -1,8 +1,10 @@
 ---
-published: false
+layout: post
+title: "Check me out on Docker Hub"
+published: true
 ---
 
-## Check out my Docker profile
+## My Docker profile
 
 https://hub.docker.com/u/arbiterofcool/
 
