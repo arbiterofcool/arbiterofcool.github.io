@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Polyglot development.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Checkout my DJ mixes: [DJ Xpoint on Soundcloud](https://soundcloud.com/djxpoint)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xpointsh@gmail.com](mailto:xpointsh@gmail.com)
