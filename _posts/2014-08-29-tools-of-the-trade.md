@@ -4,8 +4,6 @@ title: "Tools of the Trade"
 published: true
 ---
 
-#Tools of the trade:
-
 # Core
 ---------------
 
