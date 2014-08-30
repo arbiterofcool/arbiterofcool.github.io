@@ -6,8 +6,15 @@ published: true
 
 ## Tools of the trade:
 
-* [Aeron chair](http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html)
-* [Macbook Pro](https://wwwle.com/macbook-pro/)
+### Core
+* [brew](http://brew.sh/)
+* [jdk8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [git](http://git-scm.com/)
+* [gtypist](http://www.gnu.org/software/gtypist/)
+* [mvim](https://code.google.com/p/macvim/)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [tree](http://en.wikipedia.org/wiki/Tree_\(Unix\))
+* [Xcode](https://developerle.com/xcode/)
 
 ### Applications
 * [BetterSnapTool](https://itunesle.com/us/app/bettersnaptool/id417375580?mt=12)
@@ -24,16 +31,6 @@ published: true
 * [Skype](http://www.skype.com/en/)
 * [Vagrant](http://www.vagrantup.com/)
 * [VirtualBox](https://www.virtualbox.org/)
-
-### Core
-* [brew](http://brew.sh/)
-* [jdk8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* [git](http://git-scm.com/)
-* [gtypist](http://www.gnu.org/software/gtypist/)
-* [mvim](https://code.google.com/p/macvim/)
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-* [tree](http://en.wikipedia.org/wiki/Tree_\(Unix\))
-* [Xcode](https://developerle.com/xcode/)
 
 ### Devops
 * [boot2docker](http://boot2docker.io/)
