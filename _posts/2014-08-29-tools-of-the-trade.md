@@ -4,9 +4,11 @@ title: "Tools of the Trade"
 published: true
 ---
 
-## Tools of the trade:
+#Tools of the trade:
 
-### Core
+# Core
+---------------
+
 * [brew](http://brew.sh/)
 * [jdk8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [git](http://git-scm.com/)
@@ -16,7 +18,9 @@ published: true
 * [tree](http://en.wikipedia.org/wiki/Tree_\(Unix\))
 * [Xcode](https://developerle.com/xcode/)
 
-### Applications
+# Applications
+---------------
+
 * [BetterSnapTool](https://itunesle.com/us/app/bettersnaptool/id417375580?mt=12)
 * [Chicken](http://sourceforge.net/projects/chicken/)
 * [Colloquy](http://colloquy.info/)
@@ -32,7 +36,9 @@ published: true
 * [Vagrant](http://www.vagrantup.com/)
 * [VirtualBox](https://www.virtualbox.org/)
 
-### Devops
+# Devops
+---------------
+
 * [boot2docker](http://boot2docker.io/)
 * [baseimage-docker-nsenter](http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/)
 * [docker](https://www.docker.com/)
@@ -41,7 +47,9 @@ published: true
 * [fig](http://www.fig.sh/)
 * [gradle](http://www.gradle.org/)
 
-### Javascript
+# Javascript
+---------------
+
 * [bower](http://bower.io/)
 * [cordova](http://cordova.apache.org/)
 * [grunt](http://gruntjs.com/)
@@ -50,16 +58,24 @@ published: true
 * [npm](https://www.npmjs.org/)
 * [yo](http://yeoman.io/)
 
-### Python
+# Python
+---------------
+
 * [pip](https://pypi.python.org/pypi/pip)
 
-### Ruby
+# Ruby
+---------------
+
 * [rbenv](https://github.com/sstephenson/rbenv)
 
-### Groovy
+# Groovy
+---------------
+
 * [gvm](http://gvmtool.net/)
 
-### ZSH
+# ZSH
+---------------
+
 * [antigen](https://github.com/zsh-users/antigen)
 * [dogenpunk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/dogenpunk.zsh-theme)
 
