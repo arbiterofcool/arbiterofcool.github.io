@@ -41,7 +41,7 @@ published: true
 * [fig](http://www.fig.sh/)
 * [gradle](http://www.gradle.org/)
 
-### Javascriot
+### Javascript
 * [bower](http://bower.io/)
 * [cordova](http://cordova.apache.org/)
 * [grunt](http://gruntjs.com/)
