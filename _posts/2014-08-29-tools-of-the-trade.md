@@ -60,7 +60,7 @@ published: true
 
 # Python
 ---------------
-
+    
 * [pip](https://pypi.python.org/pypi/pip)
 
 # Ruby
