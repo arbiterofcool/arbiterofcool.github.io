@@ -4,9 +4,9 @@ title: "Planting Seeds with fig-seed"
 published: true
 ---
 
-# "Why do I have to copy paste your demo?"
+# "Why do I have to copy and paste your demo?"
 
-Why not auto-generate and run it. I do not just want the source, 
+Why not auto-generate and run it? I do not just want the source, 
 I want it to see it work. Enter `fig-seed demo <example>` and it works.
 
 This is problem that [fig-seed](https://github.com/arbiterofcool/fig-seed) solves.
