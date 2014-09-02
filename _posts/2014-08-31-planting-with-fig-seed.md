@@ -38,10 +38,3 @@ spare.
 `fig-seed init fig-django` for [Django](http://www.fig.sh/django.html)
 
 `fig-seed init fig-wordpress` for [Rails](http://www.fig.sh/wordpress.html)
-
-# Result
----------------
-
-`fig-seed up` builds and runs the application.
-
-
