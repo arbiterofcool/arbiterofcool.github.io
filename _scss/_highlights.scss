@@ -128,7 +128,9 @@ code {
 /* Literal.Number.Oct */
 .highlight .mo { color: #2AA198 }
 /* Literal.String.Backtick */
-.highlight .sb { color: #586E75 }
+.highlight .sb { color: #2e7275;
+  font-size: 16;
+}
 /* Literal.String.Char */
 .highlight .sc { color: #2AA198 }
 /* Literal.String.Doc */
