@@ -4,11 +4,11 @@ title: "fig-seed version 0.1 released"
 published: true
 ---
 
-# "Release early, release often." - Eric S. Raymond
+### "Release early, release often." - Eric S. Raymond
 
 Try [fig-seed](https://github.com/arbiterofcool/fig-seed) out today.
 
-```bash
+```
 
 Fig Seed, plant your project.
 
