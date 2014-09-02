@@ -8,7 +8,7 @@ published: true
 
 Try [fig-seed](https://github.com/arbiterofcool/fig-seed) out today.
 
-``` bash
+```bash
 
 Fig Seed, plant your project.
 
