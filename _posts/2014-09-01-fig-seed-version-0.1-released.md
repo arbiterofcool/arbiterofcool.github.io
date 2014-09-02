@@ -9,6 +9,7 @@ published: true
 Try [fig-seed](https://github.com/arbiterofcool/fig-seed) out today.
 
 ``` bash
+
 Fig Seed, plant your project.
 
 Usage:
@@ -27,4 +28,5 @@ Options:
 
 Example: fig-seed.py init /tmp/init
          fig-seed.py init fig-flask /tmp/fig-flask
+         
 ```
