@@ -22,19 +22,21 @@ spare.
 # Requirements
 ---------------
 
-`fig-seed init` creates an empty application.
+`fig-seed up <template>` creates a living application.
 
-`fig-seed init <example>` duplicates the default example application.
+`fig-seed init <template>` duplicates the template to `/tmp`.
 
-`fig-seed init <example> <alternate>` duplicates an alternate example application.
+`fig-seed init <example> <directory>` duplicates an alternate example application.
 
 # Usage
 ---------------
 
-`fig-seed init fig` creates the Flask application featured on the [Fig](fig.sh) landing page.
+`fig-seed up fig-flask` creates the Flask application featured on the [Fig](fig.sh) landing page.
 
-`fig-seed init fig-rails` for [Rails](http://www.fig.sh/rails.html)
+`fig-seed up fig-rails` for [Rails](http://www.fig.sh/rails.html)
 
-`fig-seed init fig-django` for [Django](http://www.fig.sh/django.html)
+`fig-seed up fig-django` for [Django](http://www.fig.sh/django.html)
 
-`fig-seed init fig-wordpress` for [Rails](http://www.fig.sh/wordpress.html)
+`fig-seed up fig-wordpress` for [Wordpress](http://www.fig.sh/wordpress.html)
+
+`fig-seed up fig-wordpress` for [Wordpress](http://www.fig.sh/wordpress.html)
