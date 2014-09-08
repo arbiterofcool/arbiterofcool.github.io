@@ -38,5 +38,3 @@ spare.
 `fig-seed up fig-django` for [Django](http://www.fig.sh/django.html)
 
 `fig-seed up fig-wordpress` for [Wordpress](http://www.fig.sh/wordpress.html)
-
-`fig-seed up fig-wordpress` for [Wordpress](http://www.fig.sh/wordpress.html)
