@@ -11,18 +11,28 @@ published: true
 
 ##Create Droplet on [DigitalOcean](https://cloud.digitalocean.com/)
 
+![Create Droplet](/images/do-create-droplet.png)
+
 **Droplet Hostname:**
-wla-docker
+arbiterofcool
 
 **Select Size:**
 $5/mo
 
 
+![Select Region](/images/do-select-region.png)
+
 **Select Region:**
 San Francisco
 
+
+![Select App](/images/do-select-app.png)
+
 **Select Image:**
 Applications, Docker 1.2.0 on Ubuntu 14.04
+
+
+![Last Step](/images/do-select-app.png)
 
 **Add optional [SSH Keys](https://cloud.digitalocean.com/ssh_keys):**
 schatman
