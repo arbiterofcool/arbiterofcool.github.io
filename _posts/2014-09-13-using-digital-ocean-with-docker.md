@@ -39,7 +39,7 @@ Applications, Docker 1.2.0 on Ubuntu 14.04
 **Add optional [SSH Keys](https://cloud.digitalocean.com/ssh_keys):**
 schatman
 
-![Last Step](/images/do-select-app.png)
+![Last Step](/images/last-step.png)
 
 **On command line:** 
 ssh root@(DROPLET_IP)
