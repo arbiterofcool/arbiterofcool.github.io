@@ -13,7 +13,7 @@ published: true
 
 
 **Droplet Hostname:**
-arbiterofcool
+$DROPLET_NAME
 
 **Select Size:**
 $5/mo
@@ -37,9 +37,9 @@ Applications, Docker 1.2.0 on Ubuntu 14.04
 ![Select App](/images/do-select-app.png)
 
 **Add optional [SSH Keys](https://cloud.digitalocean.com/ssh_keys):**
-schatman
+$KEY_NAME
 
-![Last Step](/images/last-step.png)
+![Last Step](/images/do-last-step.png)
 
 **On command line:** 
-ssh root@(DROPLET_IP)
+ssh root@($DROPLET_IP)
