@@ -32,8 +32,6 @@ San Francisco
 **Select Image:**
 Applications, Docker 1.2.0 on Ubuntu 14.04
 
-
-
 ![Select App](/images/do-select-app.png)
 
 **Add optional [SSH Keys](https://cloud.digitalocean.com/ssh_keys):**
@@ -43,3 +41,12 @@ $KEY_NAME
 
 **On command line:** 
 ssh root@($DROPLET_IP)
+
+![SSH](/images/do-ssh.png)
+
+
+
+**On command line:** 
+docker version
+
+![SSH](/images/do-docker-version.png)
