@@ -1,0 +1,17 @@
+---
+layout: post
+title: "My first command line script"
+published: true
+---
+
+ono ॐ  ~/dev/arbiterofcool.github.io/_posts:(0m|git@master!)
+6693 ± cat pb.py                                       ✹
+from sys import argv
+import subprocess as sp
+
+script, msg = argv
+
+print(msg)
+sp.call(['git','add','.'])
+sp.call(['git','commit','-m', msg])
+sp.call(['git','push'])
